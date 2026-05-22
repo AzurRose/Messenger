@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TcpMessenger.Server/1.0.0": {
+        "dependencies": {
+          "TcpMessenger.Shared": "1.0.0"
+        },
+        "runtime": {
+          "TcpMessenger.Server.dll": {}
+        }
+      },
+      "TcpMessenger.Shared/1.0.0": {
+        "runtime": {
+          "TcpMessenger.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TcpMessenger.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TcpMessenger.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

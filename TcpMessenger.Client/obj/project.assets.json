@@ -1,0 +1,118 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0-windows": {
+      "TcpMessenger.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TcpMessenger.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TcpMessenger.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TcpMessenger.Shared/1.0.0": {
+      "type": "project",
+      "path": "../TcpMessenger.Shared/TcpMessenger.Shared.csproj",
+      "msbuildProject": "../TcpMessenger.Shared/TcpMessenger.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows": [
+      "TcpMessenger.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GamerPC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\GamerPC\\Desktop\\Messenger\\TcpMessenger.Client\\TcpMessenger.Client.csproj",
+      "projectName": "TcpMessenger.Client",
+      "projectPath": "C:\\Users\\GamerPC\\Desktop\\Messenger\\TcpMessenger.Client\\TcpMessenger.Client.csproj",
+      "packagesPath": "C:\\Users\\GamerPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GamerPC\\Desktop\\Messenger\\TcpMessenger.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\GamerPC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\GamerPC\\Desktop\\Messenger\\TcpMessenger.Shared\\TcpMessenger.Shared.csproj": {
+              "projectPath": "C:\\Users\\GamerPC\\Desktop\\Messenger\\TcpMessenger.Shared\\TcpMessenger.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows": {
+        "framework": "net8.0-windows7.0",
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

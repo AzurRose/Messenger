@@ -1,0 +1,11 @@
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\bin\Debug\net8.0\TcpMessenger.Shared.deps.json
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\bin\Debug\net8.0\TcpMessenger.Shared.dll
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\bin\Debug\net8.0\TcpMessenger.Shared.pdb
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.AssemblyInfoInputs.cache
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.AssemblyInfo.cs
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.csproj.CoreCompileInputs.cache
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.dll
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\refint\TcpMessenger.Shared.dll
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\TcpMessenger.Shared.pdb
+C:\Users\GamerPC\Desktop\Messenger\TcpMessenger.Shared\obj\Debug\net8.0\ref\TcpMessenger.Shared.dll
